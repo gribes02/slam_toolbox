@@ -10,6 +10,7 @@ ceres_loss_function: None
 odom_frame: odom
 map_frame: map
 base_frame: base_link
+# It was base_footprint before
 scan_topic: /scan
 mode: mapping
 
